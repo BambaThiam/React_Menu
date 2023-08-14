@@ -254,6 +254,10 @@ ul {
 }
 /* ============= PROJECT CSS =============== */
 
+.titleBamba {
+  margin: 3rem auto;
+}
+
 .menu {
   padding: 5rem 0;
 }
